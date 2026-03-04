@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "no tears left to cry",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-04T08:58:19.285994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "no tears left to cry",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_no_tears_left_to_cry_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "no tears left to cry",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_no_tears_left_to_cry_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Tears Left To Cry",
+      "artist": "J.Fla",
+      "has_synced": true,
+      "path": "select/03_No_Tears_Left_To_Cry_J.Fla.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Tears Left to Cry",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_No_Tears_Left_to_Cry_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Tears Left To Cry",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_No_Tears_Left_To_Cry_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "no tears left to cry (instrumental)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_no_tears_left_to_cry_(instrumental)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "no tears left to cry",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/07_no_tears_left_to_cry_Ariana_Grande.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "no tears left to cry",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_no_tears_left_to_cry_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "no tears left to cry (Official Video)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/09_no_tears_left_to_cry_(Official_Video)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No tears left to cry",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/10_No_tears_left_to_cry_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Tears Left To Cry",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_No_Tears_Left_To_Cry_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Tears Left To Cry",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/12_No_Tears_Left_To_Cry_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Tears Left To Cry (Demo Version)",
+      "artist": "ILoveSnugsworth",
+      "has_synced": true,
+      "path": "select/13_No_Tears_Left_To_Cry_(Demo_Version)_ILoveSnugsworth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "no tears left to cry (live)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/14_no_tears_left_to_cry_(live)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Tears Left to Cry",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_No_Tears_Left_to_Cry_Ariana_Grande.txt"
+    }
+  ]
+}
